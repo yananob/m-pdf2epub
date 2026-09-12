@@ -1,0 +1,4 @@
+[submodule "_myapps-common"]
+	branch = main
+[submodule "_template"]
+	branch = test
